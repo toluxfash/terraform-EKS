@@ -28,3 +28,4 @@ override.tf.json
 # Ignore backups
 *.backup
 *.bak
+wget-log
