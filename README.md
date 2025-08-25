@@ -118,6 +118,7 @@ terraform-eks/
 
 DevOps Engineer(toluxfash) — AWS EKS Project
 
+```mermaid
 graph TD
     Internet -->|HTTP/SSH| IGW[Internet Gateway]
     IGW --> PublicSubnets[Public Subnets]
